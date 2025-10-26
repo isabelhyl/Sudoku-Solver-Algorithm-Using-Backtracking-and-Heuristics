@@ -35,8 +35,7 @@ until a valid solution is found.
 <img width="1594" height="554" alt="Screenshot 2025-10-16 102335" src="https://github.com/user-attachments/assets/ae7e9136-3e7e-4769-9bcd-5ab8b55ce27a" />
 Meanwhile for the hybrid heuristics algorithm, we modified the original backtracking algorithm by
 implementing the method of MRV (Minimum Reduced Values) and Naked-Pairs before running the
-backtracking function.
-
+backtracking function. <br>
 
 How the algorithm works is as follows:
 1. determines the possible candidates of each cell
