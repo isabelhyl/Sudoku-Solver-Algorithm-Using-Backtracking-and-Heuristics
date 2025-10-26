@@ -37,6 +37,7 @@ Meanwhile for the hybrid heuristics algorithm, we modified the original backtrac
 implementing the method of MRV (Minimum Reduced Values) and Naked-Pairs before running the
 backtracking function.
 
+
 How the algorithm works is as follows:
 1. determines the possible candidates of each cell
 2. filters the naked pairs in each cell
